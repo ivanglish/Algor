@@ -1,0 +1,81 @@
+In the series of figures below, a sequence of passes is shown for the 
+binary search. Let's go over them step-by-step.  The first step is to 
+look at the array in it's initial state.  We are going to have to keep 
+three "pointers" into the array for this algorithm - three integer variables 
+that contain the indicies of three different places that we are concerned 
+with in the array: the low index that we are still looking at, the high 
+index that we are still looking at, and the midpoint index between the 
+low and high.  The figure below shows you these values.  The low and high 
+indices are the first and last element indices of the array, and the midpoint 
+is shown to be (low+high)/2.  Note that we need to do integer division to 
+find the midpoint.  That way, if the number of elements in the array is even, 
+and thus the "midpoint" is actually not an element, we will set the mid 
+pointer to one less than what floating point division would give us.  
+If you didn't catch on to what integer division did way back at the 
+beginning of the semester, now is the time to make sure you do. 
+So if there are 8 elements, then (0+7)/2 would be 3.5 with floating 
+point division, but will return 3 with integer division.
+In the series of figures below, a sequence of passes is shown for the 
+binary search. Let's go over them step-by-step.  The first step is to 
+look at the array in it's initial state.  We are going to have to keep 
+three "pointers" into the array for this algorithm - three integer variables 
+that contain the indicies of three different places that we are concerned 
+with in the array: the low index that we are still looking at, the high 
+index that we are still looking at, and the midpoint index between the 
+low and high.  The figure below shows you these values.  The low and high 
+indices are the first and last element indices of the array, and the midpoint 
+is shown to be (low+high)/2.  Note that we need to do integer division to 
+find the midpoint.  That way, if the number of elements in the array is even, 
+and thus the "midpoint" is actually not an element, we will set the mid 
+pointer to one less than what floating point division would give us.  
+If you didn't catch on to what integer division did way back at the 
+beginning of the semester, now is the time to make sure you do. 
+So if there are 8 elements, then (0+7)/2 would be 3.5 with floating 
+point division, but will return 3 with integer division.
+In the series of figures below, a sequence of passes is shown for the 
+binary search. Let's go over them step-by-step.  The first step is to 
+look at the array in it's initial state.  We are going to have to keep 
+three "pointers" into the array for this algorithm - three integer variables 
+that contain the indicies of three different places that we are concerned 
+with in the array: the low index that we are still looking at, the high 
+index that we are still looking at, and the midpoint index between the 
+low and high.  The figure below shows you these values.  The low and high 
+indices are the first and last element indices of the array, and the midpoint 
+is shown to be (low+high)/2.  Note that we need to do integer division to 
+find the midpoint.  That way, if the number of elements in the array is even, 
+and thus the "midpoint" is actually not an element, we will set the mid 
+pointer to one less than what floating point division would give us.  
+If you didn't catch on to what integer division did way back at the 
+beginning of the semester, now is the time to make sure you do. 
+So if there are 8 elements, then (0+7)/2 would be 3.5 with floating 
+point division, but will return 3 with integer division.
+In the series of figures below, a sequence of passes is shown for the 
+binary search. Let's go over them step-by-step.  The first step is to 
+look at the array in it's initial state.  We are going to have to keep 
+three "pointers" into the array for this algorithm - three integer variables 
+that contain the indicies of three different places that we are concerned 
+with in the array: the low index that we are still looking at, the high 
+index that we are still looking at, and the midpoint index between the 
+low and high.  The figure below shows you these values.  The low and high 
+indices are the first and last element indices of the array, and the midpoint 
+is shown to be (low+high)/2.  Note that we need to do integer division to 
+find the midpoint.  That way, if the number of elements in the array is even, 
+and thus the "midpoint" is actually not an element, we will set the mid 
+pointer to one less than what floating point division would give us.  
+If you didn't catch on to what integer division did way back at the 
+beginning of the semester, now is the time to make sure you do. 
+So if there are 8 elements, then (0+7)/2 would be 3.5 with floating 
+point division, but will return 3 with integer division.
+In the series of figures below, a sequence of passes is shown for the 
+binary search. Let's go over them step-by-step.  The first step is to 
+look at the array in it's initial state.  We are going to have to keep 
+three "pointers" into the array for this algorithm - three integer variables 
+that contain the indicies of three different places that we are concerned 
+with in the array: the low index that we are still looking at, the high 
+index that we are still looking at, and the midpoint index between the 
+low and high.  The figure below shows you these values.  The low and high 
+indices are the first and last element indices of the array, and the midpoint 
+is shown to be (low+high)/2.  Note that we need to do integer division to 
+find the midpoint.  That way, if the number of elements in the array is even, 
+and thus the "midpoint" is actually not an element, we will set the mid 
+pointer to one less than what floating point division would give us.
