@@ -3,7 +3,7 @@ package com.java8;
 
 
 public class WorwerInterfaceTest {
-	
+	 
 	 public static void execute(WorkerInterface worker) {
 	        worker.doSomeWork();
 	    }

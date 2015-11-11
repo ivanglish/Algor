@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.List;
 
 public class LamdaExamples {
-	
+	 
 	public static void main(String[] args) {
 		
 		//Old way:
