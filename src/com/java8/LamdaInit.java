@@ -2,12 +2,11 @@ package com.java8;
 
 import java.util.function.Function;
 
-public class Lambdas {
+public class LamdaInit {
 	
-	
-	public static void main(String[] args) {
+public static void main(String[] args) {
 		
-		Lambdas l  = new Lambdas();
+		LamdaInit l  = new LamdaInit();
 		
 		System.out.println(l.atr);
 	}
