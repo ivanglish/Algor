@@ -22,15 +22,3 @@ public class WorwerInterfaceTest {
 	        execute( () -> System.out.println("Worker invoked using Lambda expression") );
 	    }
 }
-	
-//	(int a, int b) -> {  return a + b; }
-//	 
-//	() -> System.out.println("Hello World");
-//	 
-//	(String s) -> { System.out.println(s); }
-//	 
-//	() -> 42
-//	 
-//	() -> { return 3.1415 };
-
-
