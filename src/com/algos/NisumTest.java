@@ -6,7 +6,6 @@ public class NisumTest {
         
         Car car1 = new Car();
         Car car2 = new Car();
-        
         switchCars(car1, car2);
         System.out.println(car1.equals(car2));
     }
