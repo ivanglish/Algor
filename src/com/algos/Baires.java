@@ -20,7 +20,8 @@ public class Baires {
 		
 		int j=0;
 		int count=0;
-		for (int i = pala1.length; i < 0; i++) {
+		for (int i = pala1.length-1; i > 0; i--) {
+			System.out.println(i);
 			if (pala1[i]!=pala2[j]) {
 				count++;
 			}

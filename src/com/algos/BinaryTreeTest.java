@@ -6,7 +6,7 @@ public class BinaryTreeTest {
 	    new BinaryTreeTest().run();
 	  }
 	 
-	  static class Node {
+	  class Node {
 	    Node left;
 	 
 	    Node right;
